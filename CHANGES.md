@@ -6,3 +6,6 @@ Any modifications to the OpenAmiga2000CoproAdapter design and documentation made
 * Changed /BOSS testpoint to a jumper
 * Added a closed smd jumper for E clock
 
+### 08/03/2025 - Matthias Gietzelt
+* Enlarged design to ensure protection against polarity reversal 
+
